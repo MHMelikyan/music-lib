@@ -27,7 +27,7 @@ function ArtistView() {
 
     return (
         <div>
-            <h1>id passed was: {id}</h1>
+            <h1>id passed was: {id} </h1>
             {albumDisplay}
         </div>
     )
